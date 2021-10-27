@@ -1,0 +1,10 @@
+
+gateway-aspnetcore-demo/.vs/gateway/v16/.suo
+
+bin/
+obj/
+v15/
+*.csproj.user
+.vs
+.idea
+.vscode
