@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcClient", "GrpcClient\Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogServer", "LogServer\LogServer.csproj", "{6A8E5481-3EA3-4D77-A28E-D558E8B48842}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway1", "Gateway1\Gateway1.csproj", "{748C72C9-3FC9-49F0-B8D7-0AE757CC336D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server1", "Gateway1\Server1.csproj", "{748C72C9-3FC9-49F0-B8D7-0AE757CC336D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway2", "Gateway2\Gateway2.csproj", "{A9C41AA2-4CDE-4A5D-ABA2-9238F9AA4F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server2", "Gateway2\Server2.csproj", "{A9C41AA2-4CDE-4A5D-ABA2-9238F9AA4F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService2", "GrpcService2\GrpcService2.csproj", "{0E119D84-A2CA-47BB-9B13-B7E74FB16CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcService2", "GrpcService2\GrpcService2.csproj", "{0E119D84-A2CA-47BB-9B13-B7E74FB16CDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

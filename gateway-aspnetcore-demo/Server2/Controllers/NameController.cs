@@ -22,9 +22,9 @@ namespace Gateway2.Controllers
         [HttpGet]
         public string Get()
         {
-            _logger.LogInformation("call gateway2");
+            _logger.LogInformation("call server2");
             var req = Request;
-            return "gateway2";
+            return "server2";
         }
     }
 }

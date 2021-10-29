@@ -17,9 +17,9 @@ namespace Gateway1.Controllers
         [HttpGet]
         public string Get()
         {
-            _logger.LogInformation("call gateway1");
+            _logger.LogInformation("call server1");
             var req = Request;
-            return "gateway1";
+            return "server1";
         }
     }
 }
